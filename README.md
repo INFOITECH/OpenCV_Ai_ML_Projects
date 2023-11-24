@@ -1,1 +1,1 @@
-# OpenCV, Ai and MLProjects
+# OpenCV, Ai and ML Projects
